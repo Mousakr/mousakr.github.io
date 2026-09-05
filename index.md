@@ -3,7 +3,7 @@ layout: page
 ---
 <img style="float:right;max-width:25%" src="/images/portrait%202%20(2).jpeg">
 
-I'm a computational / systems neuroscientist interested in the neural mechanisms underlying learning. I am completing my PhD from the Hebrew University of Jerusalem under the supervision of [Israel Nelken](https://elsc.huji.ac.il/people-directory/faculty-members/israel-nelken/) and [Yonatan Loewenstein](https://elsc.huji.ac.il/people-directory/faculty-members/yonatan-loewenstein/).
+I'm a computational / systems neuroscientist interested in the neural mechanisms of learning. I am completing my PhD from the Hebrew University of Jerusalem under the supervision of [Israel Nelken](https://elsc.huji.ac.il/people-directory/faculty-members/israel-nelken/) and [Yonatan Loewenstein](https://elsc.huji.ac.il/people-directory/faculty-members/yonatan-loewenstein/).
 
 In my PhD I studied how rats rapidly learn a multi-step decision task, using abstract representations and generalization. To study the neural basis of this behavior, I recorded from multiple brain regions (with a focus on orbitofrontal cortex) in freely moving, untethered rats using chronically implanted Neuropixels probes.
 
