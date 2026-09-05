@@ -1,27 +1,33 @@
- <footer class="site-footer">
+<footer class="site-footer">
 
-    <div class="wrapper">
+  <div class="wrapper">
 
-      <ul class="social-media-list">
-        {% if site.github_username %}
-        <li>
-          {% include icon-github.html username=site.github_username %}
-        </li>
-        {% endif %}
+    <ul class="social-media-list">
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
 
-        {% if site.scholar_url %}
-        <li>
-          {% include icon-scholar.html url=site.scholar_url %}
-        </li>
-        {% endif %}
+      {% if site.scholar_url %}
+      <li>
+        {% include icon-scholar.html url=site.scholar_url %}
+      </li>
+      {% endif %}
 
-        {% if site.twitter_username %}
-        <li>
-          {% include icon-twitter.html username=site.twitter_username %}
-        </li>
-        {% endif %}
-      </ul>
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
 
-    </div>
+      {% if site.bluesky_url %}
+      <li>
+        {% include icon-bluesky.html url=site.bluesky_url %}
+      </li>
+      {% endif %}
+    </ul>
 
-  </footer>
+  </div>
+
+</footer>
