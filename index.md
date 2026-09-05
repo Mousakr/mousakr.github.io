@@ -1,10 +1,11 @@
 ---
 layout: page
 ---
-<img style="float:right;max-width:25%" src="/images/IMG_2143.jpeg">
+<img style="float:right;max-width:25%" src="/images/portrait%202%20(2).jpeg">
 
-I'm a systems neuroscientist interested in the neural mechanisms underlying learning and exploration. I am completing my PhD from the Hebrew University of Jerusalem under the supervision of [Israel Nelken](https://elsc.huji.ac.il/people-directory/faculty-members/israel-nelken/) and [Yonatan Loewenstein](https://elsc.huji.ac.il/people-directory/faculty-members/yonatan-loewenstein/).
+I'm a computational / systems neuroscientist interested in the neural mechanisms underlying learning. I am completing my PhD from the Hebrew University of Jerusalem under the supervision of [Israel Nelken](https://elsc.huji.ac.il/people-directory/faculty-members/israel-nelken/) and [Yonatan Loewenstein](https://elsc.huji.ac.il/people-directory/faculty-members/yonatan-loewenstein/).
 
-In my PhD I studied how rats learn a repeatedly changing multi-step decision task, using computational principles from reinforcement learning. To investigate the neural mechanisms underlying these behaviors, I record neural activity from the orbitofrontal cortex as well as the secondary motor cortex in freely moving and behaving rats using untethered Neuropixels probes. I also use chemogenetic methods to perturb neural populations while animals perform the task.
+In my PhD I studied how rats rapidly learn a multi-step decision task, using abstract representations and generalization. To study the neural basis of this behavior, I recorded from multiple brain regions (with a focus on orbitofrontal cortex) in freely moving, untethered rats using chronically implanted Neuropixels probes.
 
-I am especially interested in how neural populations encode information, how these patterns of activity are formed, and how they support (and obstruct) behavior.
+I am especially interested in how neural networks (within and across brain regions) encode information, how these patterns of activity are formed, and how they support and obstruct behavior.
+
