@@ -205,11 +205,23 @@ pre {
 }
 
 .social-media-list {
-  .icon {
-    padding-right: 5px;
+  $social-gap: 6px;
+
+  @include relative-font-size(0.9375);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: $social-gap ($spacing-unit / 2);
+  margin-bottom: 0;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: $social-gap;
   }
 
-  li + li {
-    padding-top: 5px;
+  .icon {
+    display: inline-flex;
+    align-items: center;
   }
 }
